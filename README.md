@@ -2,7 +2,7 @@
 
 Hello, I'm Sam/Shock59! I'm currently in high school in Australia and haven't made any notable contributions or projects yet, maybe I will maybe I won't. For now I just do random JavaScript, TypeScript and game development projects and other random stuff which I sometimes post here.
 
-I'm not active on any public socials other than my [YouTube channel](https://youtube.com/@shock59/) and this GitHub account, and don't yet have a public email - I will update this if that ever changes.
+I'm not active on any public socials other than my [YouTube channel](https://youtube.com/@shock59/) and this GitHub account, I will update this if that ever changes. If you need to contact me, you can do so by emailing [shock59@proton.me](mailto:shock59@proton.me).
 
 I live in Australia and my timezone is AEST (UTC+10), or AEDT in daylight savings (UTC+11). I use any pronouns.
 
