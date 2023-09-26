@@ -12,13 +12,13 @@ I live in Australia and my timezone is AEST (UTC+10), or AEDT in daylight saving
 
 - **CPU:** Intel Core i5-12500
 - **GPU**: AMD Radeon RX 6600
-- **RAM**: 16GB DDR5 from Crucial
+- **RAM**: 16GB DDR5 from Crucial (not sure what model exactly)
 - **Storage:** 512GB NVME Western Digital Green SSD
-- **OS:** Fedora Linux
+- **OS:** Arch Linux
 
 **Laptop**
 
 - **Model:** Apple M1 MacBook Air 2020
 - **RAM:** 16GB
 - **Storage:** 1TB SSD
-- **OS:** MacOS Ventura
+- **OS:** MacOS Sonoma
